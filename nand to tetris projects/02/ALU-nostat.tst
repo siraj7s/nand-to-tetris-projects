@@ -1,7 +1,3 @@
-// This file is part of the materials accompanying the book 
-// "The Elements of Computing Systems" by Nisan and Schocken, 
-// MIT Press. Book site: www.idc.ac.il/tecs
-// File name: projects/02/ALU.tst
 
 load ALU.hdl,
 output-file ALU-nostat.out,
